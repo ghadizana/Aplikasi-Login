@@ -2,8 +2,6 @@
 An application with login feature.
 
 Alur login:
-1. Memasukkan name, email, dan password
-2. Memvalidasi masukkan
-3. Memvalidasi pengguna dengan deteksi wajah
-4. Memasukkan nama ibu untuk validasi
-5. Menampilkan halaman home
+1. Input email and password
+2. Validate the inputs
+3. Show the homepage
